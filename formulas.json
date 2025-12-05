@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "topic": "Linear Algebra",
+    "name": "Determinant of 2x2 matrix",
+    "formula": "det(A) = ad - bc",
+    "note": "For A = [[a, b], [c, d]]"
+  },
+  {
+    "id": 2,
+    "topic": "Calculus",
+    "name": "Derivative of x^n",
+    "formula": "d/dx (x^n) = n x^(n-1)",
+    "note": ""
+  },
+  {
+    "id": 3,
+    "topic": "Probability",
+    "name": "Bayes' Theorem",
+    "formula": "P(A|B) = [P(B|A) P(A)] / P(B)",
+    "note": ""
+  }
+]
